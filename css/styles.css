@@ -167,8 +167,9 @@ h1 {
 
 
 .ctc-3-btn-1{
+    opacity: 1;
 
-    color: #000000;
+    color: #000000 !important;
     border-style: none;
     border: 2px solid;
     border-color: #000000;
@@ -179,7 +180,8 @@ h1 {
 }
 
 .ctc-3-btn-2{
-
+    
+    opacity: 1;
     color: #fff;
     background-color: #000000;
     border-style: none;
@@ -189,11 +191,15 @@ h1 {
 }
 
 .ctc-3-btn-1:hover {
+    border-style: none;
     background-color: #DB0007;
     border-color: #DB0007;
+    outline: none;
 }
 
 .ctc-3-btn-2:hover {
+    
+    border-style: none;
     background-color: #DB0007;
     border-color: #DB0007;
 }
