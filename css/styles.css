@@ -1,0 +1,215 @@
+html, body 
+{
+    font-family: 'Poppins', sans-serif;
+    width: auto;
+    overflow-x: hidden;
+}
+
+h1 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: bolder;
+    font-size: 3.5rem;
+    padding: 0;
+    margin: 0;
+}
+
+.container-fluid {
+    padding: 0% 0%;
+}
+
+.navbar {
+    scroll-behavior: smooth;
+}
+.header nav {
+    /* height: 5%; */
+    margin: 1% 7%;
+    padding-right: 1%;
+}
+
+.navbar-link {
+    color: #000000 !important;
+}
+
+
+.heading-box-left {
+    color: #DB0007;
+    padding: 15% 0 10% 8% !important;
+    background-color: #FFBC0D;
+}
+
+.all-new {
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: #DB0007;
+    -webkit-text-fill-color: #FFBC0D;
+}
+
+.heading-box-btn-1{
+
+    color: #DB0007;
+    border-style: none;
+    border: 2px solid #DB0007;
+    border-color: #DB0007;
+    /* height: 16%;
+    width: 12%; */
+    border-radius: 50%;
+    margin: 5% 2% 5% 0%;
+}
+
+.heading-box-btn-2{
+    color: #DB0007;
+    background-color: #fff;
+    border-style: none;
+    border: 10px solid #fff;
+    /* border-color: #DB0007; */
+    /* height: 20%;
+    width: 15%; */
+    border-radius: 50%;
+    margin: 5% 2%;
+}
+
+.heading-box-btn-1:hover {
+    background-color: #DB0007;
+    border-color: #DB0007;
+}
+
+.heading-box-btn-2:hover {
+    background-color: #DB0007;
+    border-color: #DB0007;
+}
+/* menu section */
+
+.menu {
+    background-color: #EEEEEE;
+    padding: 5% 5% 10% 9%;
+    position: relative;
+}
+
+.menu-nav {
+    color: #B7B7B7;
+}
+
+.menu-head {
+    background-color: #FFBC0D;
+    /* width: 70%; */
+    border-end-end-radius: 200px;
+}
+.menu-content-row {
+    font-size: 0.8rem;
+    background-color: #DB0007;
+    color: #fff;
+    width: 75%;
+    padding: 0 3%;
+    line-height: 0.4;
+    border-radius: 50px;
+    text-align: center;
+    justify-content: center;
+    margin-left: 1%;
+}
+
+.menu-btm-scroll{
+    font-size: 0.8rem;
+    text-align: center;
+    justify-content: center;
+}
+
+.menu-scroll-items {
+    margin: 2% 0;
+    border: 10px solid #EEEEEE !important;
+}
+
+.menu-ingredients {
+    font-size: 0.8rem;
+    font-weight: 500;
+    width: 15%;
+    height: 25%;
+    display: inline-block;
+    position: absolute;
+    top: 20%;
+    left: 85%;
+    z-index: 2;
+    background-color: rgb(255, 252, 228);
+    padding: 2%;
+    opacity: 0.3;
+    
+}
+
+
+/* CtC-2 */
+
+.ctc-2 {
+    background-image: url("images/ctc-2-background.jfif");
+    /* height: 1002px; */
+    padding: 10% 0% 5% 10%;
+}
+
+.ctc-2-right-img {
+    height: 48%;
+    width: 72%;
+    border-radius: 50%;
+    margin: 10%;
+}
+
+.ctc-2-right p {
+    line-height: 0.5;
+}
+
+/* ctc-3 */
+
+.ctc-3 {
+    background-color: #FFBC0D;
+    padding: 10% 0% 0% 0%;
+}
+
+.ctc-3-left {
+    background-color: #fff;
+    padding: 10% 5% 10% 9%;
+}
+
+
+.ctc-3-btn-1{
+
+    color: #000000;
+    border-style: none;
+    border: 2px solid;
+    border-color: #000000;
+    /* height: 16%;
+    width: 12%; */
+    /* border-radius: 100%; */
+    margin: 5% 2%;
+}
+
+.ctc-3-btn-2{
+
+    color: #fff;
+    background-color: #000000;
+    border-style: none;
+    /* border: 10px solid #000000; */
+    /* border-radius: 100%; */
+    margin: 5% 15% 5% 2%;
+}
+
+.ctc-3-btn-1:hover {
+    background-color: #DB0007;
+    border-color: #DB0007;
+}
+
+.ctc-3-btn-2:hover {
+    background-color: #DB0007;
+    border-color: #DB0007;
+}
+
+.barbie-head {
+    background-color: #E84C0D;
+}
+
+.p-red {
+    color: #DB0007;
+}
+
+.p-yellow {
+    color: #FFBC0D;
+}
+
+.p-brown {
+    color: #B69A81;
+}
